@@ -9,7 +9,7 @@
 
 ## 示例
 
-> 这里是示例站点
+> 示例站点
 
 - [今日热榜 - https://hot.imsyy.top/](https://hot.imsyy.top/)
 
